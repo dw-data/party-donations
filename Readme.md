@@ -15,4 +15,4 @@ Here's an [interactive data table](https://gcgruen.github.io/datatable-party-don
 
 This is the [final dataset](data/ALL-DONATION-DATA-COMPILED.csv) all analysis was built on, in case you would like to download it as a csv.
 
-The d3.js code for the interactive visuals can be found [here](https://github.com/gcgruen/DW_Data-DonationsToGermanParties/tree/master/interactive_visuals_EN_Desktop)
+The d3.js code for the interactive visuals can be found [here](interactive_visuals_EN_Desktop)
