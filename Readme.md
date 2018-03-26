@@ -9,7 +9,7 @@ You can read the article [here](http://www.dw.com/en/dw-exclusive-how-german-com
 
 * Financial accounts -- [website collecting pdfs](https://www.bundestag.de/parlament/praesidium/parteienfinanzierung/rechenschaftsberichte/) PDFs were downloaded for 2013, 2014 and 2015 for the major parties (CDU, SPD, Greens, CSU, FDP, AFD) pdf data was reconverted with tesseract and cleaned with Regular Expressions and Open Refine 
 
-Please see [this Jupyter Notebook](https://github.com/gcgruen/DW_Data-DonationsToGermanParties/blob/master/Parteispenden.ipynb) for data cleaning and analysis.
+Please see [this Jupyter Notebook](Parteispenden.ipynb) for data cleaning and analysis.
 
 Here's an [interactive data table](https://gcgruen.github.io/datatable-party-donations/) that allows you to explore the data yourself.
 
